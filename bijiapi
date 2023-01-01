@@ -1,0 +1,19 @@
+{
+"products": [
+{"id":1,"name":"Longos - Greek Salad","category":"Sports"},
+{"id":2,"name":"Wine - Ej Gallo Sierra Valley","category":"Books"},
+{"id":3,"name":"Tea Leaves - Oolong","category":"Toys"},
+{"id":4,"name":"Schnappes Peppermint - Walker","category":"Shoes"},
+{"id":5,"name":"Nut - Walnut, Pieces","category":"Baby"},
+{"id":6,"name":"Cornish Hen","category":"Baby"},
+{"id":7,"name":"Pork - Ground","category":"Beauty"},
+{"id":8,"name":"Yoplait - Strawbrasp Peac","category":"Clothing"},
+{"id":9,"name":"Soup Campbells","category":"Electronics"},
+{"id":10,"name":"Croissant, Raw - Mini","category":"Jewelry"},
+{"id":11,"name":"Radish - Pickled","category":"Toys"},
+{"id":12,"name":"Turkey - Whole, Fresh","category":"Baby"},
+{"id":13,"name":"Pasta - Rotini, Dry","category":"Movies"},
+{"id":14,"name":"Pasta - Fettuccine, Egg, Fresh","category":"Automotive"},
+{"id":15,"name":"Wine - Mondavi Coastal Private","category":"Baby"}
+}
+]
